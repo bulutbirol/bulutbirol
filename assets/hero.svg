@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+  <title id="title">Birol Bulut</title>
+  <desc id="desc">Web, iOS ve Windows için ürünler geliştiren yazılımcı.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1224"/><stop offset="0.62" stop-color="#142A4B"/><stop offset="1" stop-color="#174B64"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#64E3CD"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#B9DDF5" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="290" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="290" rx="22" fill="url(#grid)"/>
+  <circle cx="1045" cy="-36" r="205" fill="#56B6E9" opacity=".11"/>
+  <circle cx="1115" cy="235" r="170" fill="#61E5CE" opacity=".09"/>
+  <path d="M840 225c90-130 154-145 300-78" fill="none" stroke="url(#accent)" stroke-opacity=".42" stroke-width="2"/>
+  <rect x="61" y="61" width="164" height="164" rx="40" fill="#142F4B" stroke="#6DE4D1" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M94 176V106h29c21 0 32 9 32 24 0 8-4 14-11 18 11 3 17 10 17 22 0 17-12 27-35 27H94zm22-51v17h11c7 0 10-3 10-8s-3-9-11-9h-10zm0 34v19h13c8 0 12-3 12-9 0-7-4-10-13-10h-12z" fill="url(#accent)"/>
+  <path d="M164 106h26c18 0 29 8 29 22 0 8-4 14-11 18 11 4 17 11 17 22 0 18-12 29-33 29h-28v-91zm21 19v18h7c7 0 10-3 10-9 0-5-3-9-10-9h-7zm0 35v18h8c9 0 13-3 13-9s-4-9-13-9h-8z" fill="url(#accent)"/>
+  <text x="265" y="127" fill="#F7FAFF" font-family="Segoe UI, Arial, sans-serif" font-size="55" font-weight="700" letter-spacing="-2">Birol Bulut</text>
+  <text x="269" y="171" fill="#B9D5E9" font-family="Segoe UI, Arial, sans-serif" font-size="24">Ürün odaklı yazılım geliştirici</text>
+  <text x="270" y="207" fill="#75E6D3" font-family="Segoe UI, Arial, sans-serif" font-size="19" letter-spacing="2">WEB  /  iOS  /  WINDOWS</text>
+</svg>
