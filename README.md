@@ -1,39 +1,39 @@
 <div align="center">
-  <img src="assets/hero.svg" alt="Birol Bulut — web, iOS ve Windows için ürünler" width="100%" />
-  <p>
-    <a href="https://birolweb.dev"><img src="https://img.shields.io/badge/Portfolyo-0B172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolyo" /></a>
-    <a href="https://github.com/bulutbirol?tab=repositories"><img src="https://img.shields.io/badge/Projeler-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projeleri" /></a>
-  </p>
+  <img src="https://avatars.githubusercontent.com/u/154916993?v=4&amp;s=240" alt="Birol Bulut'un fotoğrafı" width="120" />
+  <h1>Selam, ben Birol 👋</h1>
+  <p>Web ve uygulama geliştirmeyle uğraşıyorum. Aklıma gelen fikirleri denemeyi, arayüzleriyle oynamayı ve ortaya çalışan bir şey çıkarmayı seviyorum.</p>
+  <p><a href="https://birolweb.dev">Web sitem</a> · <a href="https://github.com/bulutbirol?tab=repositories">Tüm projelerim</a></p>
 </div>
-
-Web, iOS ve Windows için günlük hayatta işe yarayan ürünler geliştiriyorum. Fikri çalışan bir uygulamaya dönüştürmek; arayüz, servis ve dağıtımın tamamıyla ilgilenmek en sevdiğim kısım.
 
 ## Uygulamalarım
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://apps.apple.com/app/id6761790991"><img src="assets/nudgio-card.svg" alt="Nudgio — iPhone ve iPad için ilişki ve özel gün düzenleyicisi" width="100%" /></a>
-      <p>Önemli insanları, doğum günlerini ve özel tarihleri hatırlamayı kolaylaştıran kişisel düzenleyici.</p>
-      <a href="https://apps.apple.com/app/id6761790991"><img src="https://img.shields.io/badge/App_Store'da_Görüntüle-111827?style=flat-square&logo=apple&logoColor=white" alt="Nudgio App Store sayfası" /></a>
+      <a href="https://apps.apple.com/app/id6761790991"><img src="assets/nudgio-icon.jpg" alt="Nudgio uygulamasının orijinal simgesi" width="72" height="72" /></a>
+      <h3><a href="https://apps.apple.com/app/id6761790991">Nudgio</a></h3>
+      <p>Doğum günlerini ve önemli tarihleri unutmamak için bir hatırlatıcı.</p>
+      <p><a href="https://apps.apple.com/app/id6761790991">App Store'da aç →</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://apps.microsoft.com/search?query=Setyra"><img src="assets/setyra-card.svg" alt="Setyra — Windows kurulum ve sistem yönetim uygulaması" width="100%" /></a>
-      <p>Windows kurulumu, uygulama yönetimi, sistem bilgileri ve geri alınabilir ayarları tek yerde toplayan masaüstü uygulaması.</p>
-      <a href="https://apps.microsoft.com/search?query=Setyra"><img src="https://img.shields.io/badge/Microsoft_Store'da_Ara-2563EB?style=flat-square&logo=microsoft&logoColor=white" alt="Setyra Microsoft Store araması" /></a>
+      <a href="https://apps.microsoft.com/detail/9NLT1JT7R800"><img src="assets/setyra-icon.png" alt="Setyra uygulamasının orijinal simgesi" width="72" height="72" /></a>
+      <h3><a href="https://apps.microsoft.com/detail/9NLT1JT7R800">Setyra</a></h3>
+      <p>Windows kurulumu, uygulamalar ve sistem ayarları için masaüstü yardımcısı.</p>
+      <p><a href="https://apps.microsoft.com/detail/9NLT1JT7R800">Microsoft Store'da aç →</a></p>
     </td>
   </tr>
 </table>
 
 ## Seçilmiş projeler
 
-| Proje | Ne yapıyor? | Bağlantılar |
+| Proje | Kısaca | Bağlantılar |
 | --- | --- | --- |
-| **ServiceFlow** | Müşteri, yönetici ve teknisyen akışlarını kapsayan saha servis yönetimi uygulaması. | [Canlı demo](https://serviceflow-web-ten.vercel.app/) · [Kod](https://github.com/bulutbirol/FSM-Platform-Project) |
-| **Shortlink** | Hesaplar, kısa bağlantılar ve tıklanma istatistikleri sunan tam yığın URL kısaltıcı. | [Canlı demo](https://shortlink-web-eight.vercel.app) · [Kod](https://github.com/bulutbirol/Link-Shortener) |
-| **Fiyatın Anatomisi** | Teknoloji ürünlerinin fiyat farklarını açıklayan Türkçe ve İngilizce ürün rehberi. | [Kod](https://github.com/bulutbirol/priceplatform) |
-| **SMMM Soru Bankası** | Sınav sorularını açıklamalar, filtreler ve çalışma istatistikleriyle sunan uygulama. | [Kod](https://github.com/bulutbirol/Soru-bankasi) |
+| **ServiceFlow** | Saha servis işlerini müşteri, yönetici ve teknisyen tarafında takip etme uygulaması. | [Demo](https://serviceflow-web-ten.vercel.app/) · [Kod](https://github.com/bulutbirol/FSM-Platform-Project) |
+| **Shortlink** | Kısa bağlantı oluşturma ve tıklanma istatistiklerini görme uygulaması. | [Demo](https://shortlink-web-eight.vercel.app/) · [Kod](https://github.com/bulutbirol/Link-Shortener) |
+| **SMMM Soru Bankası** | SMMM sınavına hazırlanırken soru çözmek ve ilerlemeyi takip etmek için. | [Demo](https://smmm-soru-bankasi.vercel.app/) · [Kod](https://github.com/bulutbirol/Soru-bankasi) |
+| **Pizza** | React ile hazırlanmış pizza siparişi temalı bir arayüz. | [Kod](https://github.com/bulutbirol/fsweb-s8-challenge-pizza) |
+| **E-Commerce Project** | Ürün listeleme, detay ve hesap sayfaları içeren bir e-ticaret arayüzü. | [Kod](https://github.com/bulutbirol/E-Commerce-Project) |
 
 <div align="center">
-  <sub>Daha fazlası için <a href="https://birolweb.dev">birolweb.dev</a> adresini ziyaret edebilirsin.</sub>
+  <sub>Diğer işlerime de <a href="https://github.com/bulutbirol?tab=repositories">buradan</a> bakabilirsin.</sub>
 </div>
