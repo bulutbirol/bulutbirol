@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/154916993?v=4&amp;s=240" alt="Birol Bulut" width="120" />
   <h1>Hi, I'm Birol</h1>
   <p>Full-stack developer from Bursa, Türkiye. I build web apps with React and Spring Boot, and I've shipped my own apps to the App Store and Microsoft Store.</p>
-  <p><a href="https://birolweb.dev">Website</a> · <a href="https://www.linkedin.com/in/birol-bulut">LinkedIn</a> · <a href="mailto:birolblood@gmail.com">Email</a></p>
+  <p><a href="https://birolbulut.dev">Website</a> · <a href="https://www.linkedin.com/in/birol-bulut">LinkedIn</a> · <a href="mailto:birolblood@gmail.com">Email</a></p>
 </div>
 
 ## Apps I've published
@@ -37,7 +37,7 @@
 | **ServiceFlow** | Field service platform with customer, admin and technician roles | Java, Spring Boot, React, PostgreSQL, JWT | [Demo](https://serviceflow-web-ten.vercel.app/) · [Code](https://github.com/bulutbirol/FSM-Platform-Project) |
 | **Shortlink** | URL shortener with click stats; redirects run on a Cloudflare Worker | Spring Boot, React, PostgreSQL, Docker | [Demo](https://shortlink-web-eight.vercel.app/) · [Code](https://github.com/bulutbirol/Link-Shortener) |
 | **SMMM Soru Bankası** | Exam practice app with 2,700+ questions from 21 past exams | React, Vite, Tailwind CSS | [Demo](https://smmm-soru-bankasi.vercel.app/) · [Code](https://github.com/bulutbirol/Soru-bankasi) |
-| **birolweb.dev** | My portfolio, English and Turkish, prerendered for SEO | React, Vite, Tailwind CSS, PHP | [Site](https://birolweb.dev) · [Code](https://github.com/bulutbirol/Portfolyo-g-ncel) |
+| **birolbulut.dev** | My portfolio, English and Turkish, prerendered for SEO | React, Vite, Tailwind CSS, PHP | [Site](https://birolbulut.dev) · [Code](https://github.com/bulutbirol/Portfolyo-g-ncel) |
 
 ## What I work with
 
